@@ -1,0 +1,160 @@
+talks:
+
+    - date: "21.06.17"
+      entries: 
+
+        - title: "Talk 1"
+          speaker: "Speaker 1"
+          abstract: "Abstract 1"
+          pdf: "Slides 1"
+
+        - title: "Talk 2"
+          speaker: "Speaker 2"
+          abstract: "Abstract 2"
+          pdf: "Slides 2"
+
+        - title: "Talk 3"
+          speaker: "Speaker 3"
+          abstract: "Abstract 3"
+          pdf: "Slides 3"
+
+        - title: "Talk 4"
+          speaker: "Speaker 4"
+          abstract: "Abstract 4"
+          pdf: "Slides 4"
+
+    - date: "22.06.17"
+      entries: 
+        - title: "Talk 1"
+          speaker: "Speaker 1"
+          abstract: "Abstract 1"
+          pdf: "Slides 1"
+
+        - title: "Talk 2"
+          speaker: "Speaker 2"
+          abstract: "Abstract 2"
+          pdf: "Slides 2"
+
+        - title: "Talk 3"
+          speaker: "Speaker 3"
+          abstract: "Abstract 3"
+          pdf: "Slides 3"
+
+        - title: "Talk 4"
+          speaker: "Speaker 4"
+          abstract: "Abstract 4"
+          pdf: "Slides 4"
+
+    - date: "23.06.17"
+      entries: 
+        - title: "Talk 1"
+          speaker: "Speaker 1"
+          abstract: "Abstract 1"
+          pdf: "Slides 1"
+
+        - title: "Talk 2"
+          speaker: "Speaker 2"
+          abstract: "Abstract 2"
+          pdf: "Slides 2"
+
+        - title: "Talk 3"
+          speaker: "Speaker 3"
+          abstract: "Abstract 3"
+          pdf: "Slides 3"
+
+        - title: "Talk 4"
+          speaker: "Speaker 4"
+          abstract: "Abstract 4"
+          pdf: "Slides 4"
+
+    - date: "24.06.17"
+      entries: 
+        - title: "Talk 1"
+          speaker: "Speaker 1"
+          abstract: "Abstract 1"
+          pdf: "Slides 1"
+
+        - title: "Talk 2"
+          speaker: "Speaker 2"
+          abstract: "Abstract 2"
+          pdf: "Slides 2"
+
+        - title: "Talk 3"
+          speaker: "Speaker 3"
+          abstract: "Abstract 3"
+          pdf: "Slides 3"
+
+        - title: "Talk 4"
+          speaker: "Speaker 4"
+          abstract: "Abstract 4"
+          pdf: "Slides 4"
+
+speakers:
+
+    - name: "Ittai Abraham"
+      affil: "VMWare Research"
+      site: "https://research.vmware.com/researchers/ittai-abraham"
+      img: "ittai-abraham.jpg"
+
+    - name: "Christian Cachin"
+      affil: "IBM Research"
+      site: "https://www.zurich.ibm.com/~cca"
+      img: "christian-cachin.jpg"
+
+    - name: "Emin Gün Sirer"
+      affil: "Cornell Tech"
+      site: "https://www.cs.cornell.edu/people/egs/"
+      img: "emin-gun-sirer.jpg"
+
+    - name: "Andrew Miller"
+      affil: "UIUC"
+      site: "http://soc1024.ece.illinois.edu"
+      img: "andrew-miller.jpg"
+
+    - name: "Aggelos Kiayias"
+      affil: "University of Edinburgh"
+      site: "http://www.kiayias.com/Aggelos_Kiayias/Home_of_Aggelos_Kiayias.html"
+      img: "aggelos-kiayias.jpg"
+
+    - name: "Sarah Meiklejohn"
+      affil: "UCL"
+      site: "http://www0.cs.ucl.ac.uk/staff/S.Meiklejohn/"
+      img: "sarah-meiklejohn.jpg"
+
+    - name: "Marko Vukolic"
+      affil: "IBM Research"
+      site: "http://vukolic.com"
+      img: "marko-vukolic.jpg"
+
+organizers:
+
+    - name: "Srdjan Capkun"
+      affil: "ETHZ"
+      site: "http://www.syssec.ethz.ch/people/capkun.html"
+      img: "srdjan-capkun.jpg"
+
+    - name: "Angela Devenoge"
+      affil: "EPFL"
+      site: "https://people.epfl.ch/angela.devenoge"
+      img: "angela-devenoge.jpg"
+
+    - name: "Bryan Ford"
+      affil: "EPFL"
+      site: "https://people.epfl.ch/bryan.ford"
+      img: "bryan-ford.jpg"
+
+    - name: "Arthur Gervais"
+      affil: "ETHZ"
+      site: "http://www.syssec.ethz.ch/people/agervais.html"
+      img: "arthur-gervais.png"
+
+    - name: "Philipp Jovanovic"
+      affil: "EPFL"
+      site: "https://people.epfl.ch/philipp.jovanovic"
+      img: "philipp-jovanovic.png"
+
+    - name: "Eleftherios Kokoris-Kogias"
+      affil: "EPFL"
+      site: "https://people.epfl.ch/eleftherios.kokoriskogias"
+      img: "eleftherios-kokoris-kogias.jpg"
+

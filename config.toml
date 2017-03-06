@@ -1,0 +1,10 @@
+languageCode = "en-us"
+baseurl = "https://blockchain-summer.epfl.ch/"
+title = "The Swiss Blockchain Summer School 2017"
+
+[social]
+    twitter = "https://twitter.com/epfl"
+    mail = "dedis@epfl.ch"
+
+[params]
+    program = "false"
