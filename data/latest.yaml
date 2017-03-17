@@ -96,6 +96,11 @@ speakers:
       site: "https://research.vmware.com/researchers/ittai-abraham"
       img: "ittai-abraham.jpg"
 
+    - name: "Joseph Bonneau"
+      affil: "Stanford"
+      site: "http://jbonneau.com/"
+      img: "joseph-bonneau.jpg"
+
     - name: "Christian Cachin"
       affil: "IBM Research"
       site: "https://www.zurich.ibm.com/~cca"
