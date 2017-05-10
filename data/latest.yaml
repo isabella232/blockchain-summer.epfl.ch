@@ -97,7 +97,7 @@ speakers:
       img: "ittai-abraham.jpg"
 
     - name: "Joseph Bonneau"
-      affil: "Stanford"
+      affil: "Stanford University"
       site: "http://jbonneau.com/"
       img: "joseph-bonneau.jpg"
 
@@ -106,10 +106,10 @@ speakers:
       site: "https://www.zurich.ibm.com/~cca"
       img: "christian-cachin.jpg"
 
-    - name: "Emin Gün Sirer"
+    - name: "Ari Juels"
       affil: "Cornell Tech"
-      site: "https://www.cs.cornell.edu/people/egs/"
-      img: "emin-gun-sirer.jpg"
+      site: "http://www.arijuels.com/"
+      img: "ari-juels.jpg"
 
     - name: "Andrew Miller"
       affil: "UIUC"
@@ -125,6 +125,11 @@ speakers:
       affil: "UCL"
       site: "http://www0.cs.ucl.ac.uk/staff/S.Meiklejohn/"
       img: "sarah-meiklejohn.jpg"
+
+    - name: "Emin Gün Sirer"
+      affil: "Cornell Tech"
+      site: "https://www.cs.cornell.edu/people/egs/"
+      img: "emin-gun-sirer.jpg"
 
     - name: "Marko Vukolic"
       affil: "IBM Research"
