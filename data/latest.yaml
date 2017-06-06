@@ -3,91 +3,230 @@ talks:
     - date: "21.06.17"
       entries: 
 
-        - title: "Talk 1"
-          speaker: "Speaker 1"
-          abstract: "Abstract 1"
-          pdf: "Slides 1"
+        - time: "09:30 – 10:00" 
+          title: "Coffee and Snacks"
+          speaker: 
+          abstract: 
+          pdf: 
 
-        - title: "Talk 2"
-          speaker: "Speaker 2"
-          abstract: "Abstract 2"
-          pdf: "Slides 2"
+        - time: "10:00 – 11:00" 
+          title: "Welcome"
+          speaker: 
+          abstract: 
+          pdf: 
 
-        - title: "Talk 3"
-          speaker: "Speaker 3"
-          abstract: "Abstract 3"
-          pdf: "Slides 3"
+        - time: "11:00 – 12:00" 
+          title: "tba"
+          speaker: "Ari Juels"
+          abstract: 
+          pdf: 
 
-        - title: "Talk 4"
-          speaker: "Speaker 4"
-          abstract: "Abstract 4"
-          pdf: "Slides 4"
+        - time: "12:00 – 13:00" 
+          title: "Lunch"
+          speaker: 
+          abstract: 
+          pdf: 
+
+        - time: "13:00 – 14:00" 
+          title: "Protocols for Secure Distributed Computing I"
+          speaker: "Christian Cachin"
+          abstract: 
+          pdf: 
+
+        - time: "14:00 – 15:00" 
+          title: "Protocols for Secure Distributed Computing II"
+          speaker: "Christian Cachin"
+          abstract: 
+          pdf: 
+
+        - time: "15:00 – 15:30" 
+          title: "Coffee and Snacks"
+          speaker: 
+          abstract: 
+          pdf: 
+
+        - time: "15:30 – 16:30" 
+          title: "Introduction to Ethereum I"
+          speaker: "Joseph Bonneau"
+          abstract: 
+          pdf: 
+
+        - time: "16:30 – 17:30" 
+          title: "Introduction to Ethereum II"
+          speaker: "Joseph Bonneau"
+          abstract: 
+          pdf: 
+
+        - time: "17:30 – 18:30" 
+          title: "Exercises"
+          speaker: "Arthur Gervais"
+          abstract: 
+          pdf: 
 
     - date: "22.06.17"
       entries: 
-        - title: "Talk 1"
-          speaker: "Speaker 1"
-          abstract: "Abstract 1"
-          pdf: "Slides 1"
 
-        - title: "Talk 2"
-          speaker: "Speaker 2"
-          abstract: "Abstract 2"
-          pdf: "Slides 2"
+        - time: "09:30 – 10:00" 
+          title: "Coffee and Snacks"
+          speaker: 
+          abstract: 
+          pdf: 
 
-        - title: "Talk 3"
-          speaker: "Speaker 3"
-          abstract: "Abstract 3"
-          pdf: "Slides 3"
+        - time: "10:00 – 11:00" 
+          title: "Advanced Topics on Smart Contracts I"
+          speaker: "Andrew Miller"
+          abstract: 
+          pdf: 
 
-        - title: "Talk 4"
-          speaker: "Speaker 4"
-          abstract: "Abstract 4"
-          pdf: "Slides 4"
+        - time: "11:00 – 12:00" 
+          title: "Advanced Topics on Smart Contracts II"
+          speaker: "Andrew Miller"
+          abstract: 
+          pdf: 
+
+        - time: "12:00 – 13:00" 
+          title: "Lunch"
+          speaker: 
+          abstract: 
+          pdf: 
+
+        - time: "13:00 – 14:00" 
+          title: "tba"
+          speaker: "Emin Gün Sirer"
+          abstract: 
+          pdf: 
+
+        - time: "14:00 – 15:00" 
+          title: "Anonymity in Cryptocurrencies"
+          speaker: "Sarah Meiklejohn"
+          abstract: 
+          pdf: 
+
+        - time: "15:00 – 15:30" 
+          title: "Coffee and Snacks"
+          speaker: 
+          abstract: 
+          pdf: 
+
+        - time: "15:30 – 16:30" 
+          title: "tba"
+          speaker: "Dahlia Malkhi"
+          abstract: 
+          pdf: 
+
+        - time: "16:30 – 17:30" 
+          title: "The Hyperledger Fabric V1"
+          speaker: "Marco Vukolic"
+          abstract: 
+          pdf: 
+
+        - time: "17:30 – 18:30" 
+          title: "Exercises"
+          speaker: "Arthur Gervais"
+          abstract: 
+          pdf: 
 
     - date: "23.06.17"
       entries: 
-        - title: "Talk 1"
-          speaker: "Speaker 1"
-          abstract: "Abstract 1"
-          pdf: "Slides 1"
 
-        - title: "Talk 2"
-          speaker: "Speaker 2"
-          abstract: "Abstract 2"
-          pdf: "Slides 2"
+        - time: "09:30 – 10:00" 
+          title: "Coffee and Snacks"
+          speaker: 
+          abstract: 
+          pdf: 
 
-        - title: "Talk 3"
-          speaker: "Speaker 3"
-          abstract: "Abstract 3"
-          pdf: "Slides 3"
+        - time: "10:00 – 11:00" 
+          title: "tba"
+          speaker: "Ittai Abraham"
+          abstract: 
+          pdf: 
 
-        - title: "Talk 4"
-          speaker: "Speaker 4"
-          abstract: "Abstract 4"
-          pdf: "Slides 4"
+        - time: "11:00 – 12:00" 
+          title: "Alternative Architectures for Distributed Ledgers"
+          speaker: "Sarah Meiklejohn"
+          abstract: 
+          pdf: 
+
+        - time: "12:00 – 13:00" 
+          title: "Lunch"
+          speaker: 
+          abstract: 
+          pdf: 
+
+        - time: "13:00 – 14:00" 
+          title: "Proving the security of Blockchain Protocols: From Proof of Work to Proof of Stake I"
+          speaker: "Aggelos Kiayias"
+          abstract: 
+          pdf: 
+
+        - time: "14:00 – 15:00" 
+          title: "Proving the security of Blockchain Protocols: From Proof of Work to Proof of Stake II"
+          speaker: "Aggelos Kiayias"
+          abstract: 
+          pdf: 
+
+        - time: "15:00 – 15:30" 
+          title: "Coffee and Snacks"
+          speaker: 
+          abstract: 
+          pdf: 
+
+        - time: "15:30 – 16:30" 
+          title: "tba"
+          speaker: "Emin Gün Sirer"
+          abstract: 
+          pdf: 
+
+        - time: "16:30 – 17:30" 
+          title: "Exercises"
+          speaker: "Andrew Miller & Joseph Bonneau"
+          abstract: 
+          pdf: 
+
+        - time: "17:30 – 18:30" 
+          title: "Exercises"
+          speaker: "Andrew Miller & Joseph Bonneau"
+          abstract: 
+          pdf: 
 
     - date: "24.06.17"
       entries: 
-        - title: "Talk 1"
-          speaker: "Speaker 1"
-          abstract: "Abstract 1"
-          pdf: "Slides 1"
 
-        - title: "Talk 2"
-          speaker: "Speaker 2"
-          abstract: "Abstract 2"
-          pdf: "Slides 2"
+        - time: "09:30 – 10:00" 
+          title: "Coffee and Snacks"
+          speaker: 
+          abstract: 
+          pdf: 
 
-        - title: "Talk 3"
-          speaker: "Speaker 3"
-          abstract: "Abstract 3"
-          pdf: "Slides 3"
+        - time: "10:00 – 11:00" 
+          title: "Case Study I"
+          speaker: 
+          abstract: 
+          pdf: 
 
-        - title: "Talk 4"
-          speaker: "Speaker 4"
-          abstract: "Abstract 4"
-          pdf: "Slides 4"
+        - time: "11:00 – 12:00" 
+          title: "Case Study II"
+          speaker: 
+          abstract: 
+          pdf: 
+
+        - time: "12:00 – 13:00" 
+          title: "Lunch"
+          speaker: 
+          abstract: 
+          pdf: 
+
+        - time: "13:00 – 14:00" 
+          title: "Case Study III"
+          speaker: 
+          abstract: 
+          pdf: 
+
+        - time: "14:00 – 15:00" 
+          title: "Case Study IV"
+          speaker: 
+          abstract: 
+          pdf: 
 
 speakers:
 

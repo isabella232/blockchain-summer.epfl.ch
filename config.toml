@@ -7,4 +7,4 @@ title = "The Swiss Blockchain Summer School 2017"
     mail = "dedis@epfl.ch"
 
 [params]
-    program = "false"
+    program = "true"
