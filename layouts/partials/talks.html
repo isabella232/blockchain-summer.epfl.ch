@@ -8,7 +8,11 @@
             {{ range .entries }}
             <div class="talk">
                 <span class="time">{{ .time }}</span>
-                <span class="title">{{ .title }}</span>
+                {{ if .pdf }} 
+                    <span class="title"> <a href="{{ .pdf }}">{{ .title }}</a></span>
+                {{ else }}
+                    <span class="title">{{ .title }}</span>
+                {{ end }}
                 {{ if .speaker }}<span class="speaker"> – {{ .speaker }}</span>{{ end }}
             </div>
             {{ end }}

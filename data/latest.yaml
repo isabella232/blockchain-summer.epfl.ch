@@ -11,15 +11,15 @@ talks:
 
         - time: "10:00 – 11:00" 
           title: "Welcome"
-          speaker: 
+          speaker: "Bryan Ford and Srdjan Capkun"
           abstract: 
           pdf: 
 
         - time: "11:00 – 12:00" 
-          title: "tba"
+          title: "Town Crier: An Authenticated Data Feed for Smart Contracts"
           speaker: "Ari Juels"
           abstract: 
-          pdf: 
+          pdf: "https://drive.google.com/file/d/0B0fGmWIFTOYbM2N0YTdyaEc3Qmc/view"
 
         - time: "12:00 – 13:00" 
           title: "Lunch"
@@ -31,13 +31,13 @@ talks:
           title: "Protocols for Secure Distributed Computing I"
           speaker: "Christian Cachin"
           abstract: 
-          pdf: 
+          pdf: "http://www.distributedprogramming.net/docs/rsdptut-disc2011.pdf"
 
         - time: "14:00 – 15:00" 
           title: "Protocols for Secure Distributed Computing II"
           speaker: "Christian Cachin"
           abstract: 
-          pdf: 
+          pdf: "http://www.distributedprogramming.net/docs/rsdptut-disc2011.pdf"
 
         - time: "15:00 – 15:30" 
           title: "Coffee and Snacks"
@@ -49,13 +49,13 @@ talks:
           title: "Introduction to Ethereum I"
           speaker: "Joseph Bonneau"
           abstract: 
-          pdf: 
+          pdf: "https://docs.google.com/presentation/d/1NZlzs-Hy3f7H2Hqh61BEc6wA19KD5UTirvLq_JBta18/view"
 
         - time: "16:30 – 17:30" 
           title: "Introduction to Ethereum II"
           speaker: "Joseph Bonneau"
           abstract: 
-          pdf: 
+          pdf: "https://docs.google.com/presentation/d/1NZlzs-Hy3f7H2Hqh61BEc6wA19KD5UTirvLq_JBta18/view"
 
         - time: "17:30 – 18:30" 
           title: "Exercises"
@@ -76,13 +76,13 @@ talks:
           title: "Advanced Topics on Smart Contracts I"
           speaker: "Andrew Miller"
           abstract: 
-          pdf: 
+          pdf: "https://docs.google.com/presentation/d/1zAYulna_Kq4CsHgoXCaQUwvfQfm8BufSakp1Eatzvxk"
 
         - time: "11:00 – 12:00" 
           title: "Advanced Topics on Smart Contracts II"
           speaker: "Andrew Miller"
           abstract: 
-          pdf: 
+          pdf: "https://docs.google.com/presentation/d/1zAYulna_Kq4CsHgoXCaQUwvfQfm8BufSakp1Eatzvxk"
 
         - time: "12:00 – 13:00" 
           title: "Lunch"
@@ -91,7 +91,7 @@ talks:
           pdf: 
 
         - time: "13:00 – 14:00" 
-          title: "tba"
+          title: "Diving into The DAO"
           speaker: "Emin Gün Sirer"
           abstract: 
           pdf: 
@@ -100,7 +100,7 @@ talks:
           title: "Anonymity in Cryptocurrencies"
           speaker: "Sarah Meiklejohn"
           abstract: 
-          pdf: 
+          pdf: "talks/dl-privacy-meiklejohn.pdf"
 
         - time: "15:00 – 15:30" 
           title: "Coffee and Snacks"
@@ -109,7 +109,7 @@ talks:
           pdf: 
 
         - time: "15:30 – 16:30" 
-          title: "tba"
+          title: "Byzantine Vertical Paxos: A Foundational Approach to Reconfiguration"
           speaker: "Dahlia Malkhi"
           abstract: 
           pdf: 
@@ -136,7 +136,7 @@ talks:
           pdf: 
 
         - time: "10:00 – 11:00" 
-          title: "tba"
+          title: "Blockchain Design Choices: A Distributed Computing Perspective"
           speaker: "Ittai Abraham"
           abstract: 
           pdf: 
@@ -145,7 +145,7 @@ talks:
           title: "Alternative Architectures for Distributed Ledgers"
           speaker: "Sarah Meiklejohn"
           abstract: 
-          pdf: 
+          pdf: "talks/dl-alternatives-meiklejohn.pdf"
 
         - time: "12:00 – 13:00" 
           title: "Lunch"
@@ -172,7 +172,7 @@ talks:
           pdf: 
 
         - time: "15:30 – 16:30" 
-          title: "tba"
+          title: "Scaling Bitcoin, On- and Off-Chain"
           speaker: "Emin Gün Sirer"
           abstract: 
           pdf: 
@@ -186,6 +186,12 @@ talks:
         - time: "17:30 – 18:30" 
           title: "Exercises"
           speaker: "Andrew Miller & Joseph Bonneau"
+          abstract: 
+          pdf: 
+
+        - time: "19:00 – 21:00" 
+          title: "Social Event (BC rooftop terrace)"
+          speaker: 
           abstract: 
           pdf: 
 
