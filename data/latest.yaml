@@ -112,13 +112,13 @@ talks:
           title: "Byzantine Vertical Paxos: A Foundational Approach to Reconfiguration"
           speaker: "Dahlia Malkhi"
           abstract: 
-          pdf: 
+          pdf: "talks/paxos-malkhi.pdf"
 
         - time: "16:30 – 17:30" 
           title: "The Hyperledger Fabric V1"
           speaker: "Marco Vukolic"
           abstract: 
-          pdf: 
+          pdf: "talks/hyperledger-fabric-vukolic.pdf"
 
         - time: "17:30 – 18:30" 
           title: "Exercises"
