@@ -157,13 +157,13 @@ talks:
           title: "Proving the security of Blockchain Protocols: From Proof of Work to Proof of Stake I"
           speaker: "Aggelos Kiayias"
           abstract: 
-          pdf: 
+          pdf: "talks/blockchain-security-kiayias.pdf"
 
         - time: "14:00 – 15:00" 
           title: "Proving the security of Blockchain Protocols: From Proof of Work to Proof of Stake II"
           speaker: "Aggelos Kiayias"
           abstract: 
-          pdf: 
+          pdf: "talks/blockchain-security-kiayias.pdf"
 
         - time: "15:00 – 15:30" 
           title: "Coffee and Snacks"
